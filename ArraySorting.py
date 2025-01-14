@@ -25,6 +25,6 @@ def heapSort(array):
         array[i], array[0] = array[0], array[i]
         heapify(array, i, 0)
 
-array = (8586,8658,468,465,8496)
+array = [8586,8658,468,465,8496]
 heapSort(array)
 print("Sorted array is", array)
