@@ -5,7 +5,7 @@ Hai bisogno di mettere in ordine i tuoi dati? Abbiamo l'algoritmo giusto per te!
 
 ![Tipico uttilizzatore di sort](/tipico_uttilizzatore_di_sort.jpg)
 
-esempi simpatici degli ordinamenti [Esempio Bubble Sort](https://youtu.be/kPRA0W1kECg?si=Ij753jlQVH9xHv2T)
+esempi simpatici degli ordinamenti [Esempio Simpatico](https://youtu.be/kPRA0W1kECg?si=Ij753jlQVH9xHv2T)
 
 **Bubble Sort**: Un classico per iniziare, semplice ma potrebbe non essere il più efficiente per grandi dataset.
 **Quick Sort**: Veloce e potente, divide e conquista per un ordinamento rapido.
