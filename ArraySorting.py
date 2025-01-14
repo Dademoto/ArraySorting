@@ -1,15 +1,30 @@
-#array sorting usando il .sort
+#array sorting usando il metodo heap sort
+
+def heapify(array, n, i):
+    largest = i
+    l = 2 * i + 1
+    r = 2 * i + 2
+
+    if l < n and array[i] < array[l]:
+        largest = l
+
+    if r < n and array[largest] < array[r]:
+        largest = r
+
+    if largest != i:
+        array[i], array[largest] = array[largest], array[i]
+        heapify(array, n, largest)
+
+def heapSort(array):
+    n = len(array)
+
+    for i in range(n // 2 - 1, -1, -1):
+        heapify(array, n, i)
+
+    for i in range(n - 1, 0, -1):
+        array[i], array[0] = array[0], array[i]
+        heapify(array, i, 0)
 
 array = [8586,8658,468,465,8496]
-def sort(array):
-    iterations=0
-    for i in range(len(array)- 1):
-        for j in range(i + 1, len(array)):
-            if array[i] > array[j]:
-                x = array[i]
-                array[i] = array[j]
-                array[j] = x
-            iterations+=1
-    return iterations
-iterations=sort(array)
-print(array, "It took" ,iterations, "iterations to sort the array" )
+heapSort(array)
+print("Sorted array is", array)
