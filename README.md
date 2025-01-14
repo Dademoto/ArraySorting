@@ -8,13 +8,9 @@ Hai bisogno di mettere in ordine i tuoi dati? Abbiamo l'algoritmo giusto per te!
 esempi simpatici degli ordinamenti [Esempio Bubble Sort](https://youtu.be/kPRA0W1kECg?si=Ij753jlQVH9xHv2T)
 
 **Bubble Sort**: Un classico per iniziare, semplice ma potrebbe non essere il più efficiente per grandi dataset.
-
 **Quick Sort**: Veloce e potente, divide e conquista per un ordinamento rapido.
-
 **Radix Sort**: Eccelle con numeri interi, ordinandoli in base alle cifre.
-
 **Heap Sort**: Basato sulla struttura dati heap, offre prestazioni costanti nel caso peggiore.
-
 Scegli l'algoritmo ideale in base alle caratteristiche dei tuoi dati e alle tue esigenze di performance.
 
 ## Vuoi approfondire? Scopri come funzionano questi algoritmi, i loro punti di forza e di debolezza, e come implementarli in modo efficiente.
