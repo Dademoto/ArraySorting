@@ -3,6 +3,8 @@
 # **Ordinamento di Array: Un Mondo di Possibilità**
 Hai bisogno di mettere in ordine i tuoi dati? Abbiamo l'algoritmo giusto per te!
 
+![Tipico uttilizzatore di sort](https://images.app.goo.gl/xd9VdZwmhGqy4vXa9)
+
 esempi simpatici degli ordinamenti [Esempio Bubble Sort](https://youtu.be/kPRA0W1kECg?si=Ij753jlQVH9xHv2T)
 
 **Bubble Sort**: Un classico per iniziare, semplice ma potrebbe non essere il più efficiente per grandi dataset.
@@ -57,7 +59,9 @@ Semplicemente aprendo in terminale e richiamando python basta fare:
 ```
     posizione_nella_directory> Python3 script.py
 ```
-    Per esempio:
+
+#### Per esempio:
+    
 ```
     C:\Users\Dal Molin Nicola\git105_ArraySort_Progetto> Python3 ArraySort.py
 ```
