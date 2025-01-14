@@ -3,7 +3,7 @@
 # **Ordinamento di Array: Un Mondo di Possibilità**
 Hai bisogno di mettere in ordine i tuoi dati? Abbiamo l'algoritmo giusto per te!
 
-![Tipico uttilizzatore di sort](https://images.app.goo.gl/xd9VdZwmhGqy4vXa9)
+![Tipico uttilizzatore di sort](/tipico_uttilizzatore_di_sort.jpg)
 
 esempi simpatici degli ordinamenti [Esempio Bubble Sort](https://youtu.be/kPRA0W1kECg?si=Ij753jlQVH9xHv2T)
 
